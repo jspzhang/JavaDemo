@@ -24,7 +24,7 @@ public class MainFrame extends JFrame implements KeyListener {
 	JMenuItem menuItem1, menuItem2, menuItem3, menuItem4;
 	
 	
-	int[][] index = { 
+	int[][] index = { //initial array
 			{ 1, 2, 3, 4 }, 
 			{ 5, 6, 7, 8 }, 
 			{ 9, 10, 11, 12 }, 
